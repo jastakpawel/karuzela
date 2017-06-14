@@ -1,0 +1,20 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+#carousel {
+	margin: auto;
+	text-align: center;
+	width: 400px;
+	overflow: hidden;
+}
+.carouselList {
+	border: 1px solid;
+	width: 2000px;
+	list-style-type: none;
+}
+.carouselList li {
+	float: left;
+}
+
+	
